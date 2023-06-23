@@ -1,0 +1,1 @@
+EasyPay demo site of digital bank made using html css and javascript.(not responsive.)
